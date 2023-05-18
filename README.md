@@ -1,1 +1,1 @@
-# CNN
+# Convolutional neural network
